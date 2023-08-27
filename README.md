@@ -9,7 +9,7 @@ Using Spring Security JWT Authentication fro bezcoder (https://www.bezkoder.com/
 Admin: can add/edit/delete admin, customer, product
 User: can add/edit/delete cart items, review,
 
-Day 1: Design database, and their feature
+Day 1: Design database, and their features
 Day 2: JWT Authentication
 Day 3- 7: Business Logic 
 
